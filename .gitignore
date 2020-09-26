@@ -1,3 +1,5 @@
 # Editors and IDEs
 .idea/
 
+# Misc
+.DS_Store
